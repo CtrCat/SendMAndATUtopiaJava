@@ -1,4 +1,4 @@
-# SendMassageAndATtansferUtopiaJava
+# SendMAndATUtopiaJava
 
 Description
 
