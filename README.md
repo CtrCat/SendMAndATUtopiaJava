@@ -1,4 +1,4 @@
-# SendMassageAndATtansferUtopiaJava_Lib
+# SendMassageAndATtansferUtopiaJava
 
 Description
 
